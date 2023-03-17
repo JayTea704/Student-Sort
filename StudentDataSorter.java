@@ -5,7 +5,7 @@
 //(Based on chp 13 programing challenge) This program will sort given student data into sorted lists
 //based on last name student ID, and grade percentage using comparators. The program can take any # of students in a
 // .txt file named student_data.txt.
-//Took around 3 hrs as I had to teach myself how to use comparators to complete the program.
+//Took around 4 hrs as I had to teach myself how to use comparators to complete the program.
 
 import java.io.*;
 import java.util.*;
